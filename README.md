@@ -9,8 +9,8 @@
 </div>
 
 # Merger Train
-Random forest and LDA models trained on SKIRT images of mergers and non-mergers from IllustrisTNG100-1 and the necessary data to train your own.
 
+Images and example code from [Wilkinson et al. (submitted)]() for the purposes of training models to detect mergers and non-mergers. Within this repository are random forest and LDA models trained on SKIRT images of mergers and non-mergers from IllustrisTNG100-1, as well as the necessary data to train your own.
 
 <!-- TABLE OF CONTENTS -->
 <details>
