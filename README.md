@@ -1,3 +1,15 @@
+<a name="readme-top"></a>
+
+
+<!-- PROJECT LOGO -->
+<br />
+<div align="left">
+  <a href="https://github.com/sj-wilkinson/merger_train">
+    <img src="logo.png" alt="Logo" width="80" height="30">
+  </a>
+  </p>
+</div>
+
 # Merger Train
 Random forest and LDA models trained on SKIRT images of mergers and non-mergers from IllustrisTNG100-1 and the necessary data to train your own.
 
