@@ -5,7 +5,7 @@
 <br />
 <div align="left">
   <a href="https://github.com/sj-wilkinson/merger_train">
-    <img src="merger-train-logo.png" alt="Logo" width="80" height="30">
+    <img src="merger-train-logo.png" alt="Logo" width="800" height="450">
   </a>
   </p>
 </div>
