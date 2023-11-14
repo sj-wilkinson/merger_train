@@ -1,11 +1,9 @@
 <a name="readme-top"></a>
-
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="left">
   <a href="https://github.com/sj-wilkinson/merger_train">
-    <img src="merger-train-logo.png" alt="Logo" width="800" height="350">
+    <img src="merger-train-logo.png" alt="Logo" width="800" height="400">
   </a>
   </p>
 </div>
