@@ -55,7 +55,7 @@ Scott Wilkinson - swilkinson@uvic.ca
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGMENTS -->
-## Acknowledgments and How to Cite
+## Acknowledgements and How to Cite
 
 If you use the images to train your own data, I kindly ask that you cite the following:
 
@@ -73,6 +73,8 @@ and the creators of SKIRT and SKIRT 9:
 
 * [Camp & Baes (2015)]()
 * [Baes (2020)]()
+
+For more information, visit [the IllustrisTNG cite](https://www.tng-project.org/) and [the SKIRT9 documentation](https://skirt.ugent.be/root/_home.html).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
