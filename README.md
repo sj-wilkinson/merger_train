@@ -1,6 +1,6 @@
 <a name="readme-top"></a>
 
-<src img='merger-train-logo.png'>
+<img src="merger-train-logo.png" alt="Logo" width="80" height="30">
 
 ### Example code for interfacing with [the data](https://www.canfar.net/storage/vault/list/AstroDataCitationDOI/CISTI.CANFAR/23.0031/data) from [Wilkinson et al. (2024)](https://arxiv.org/abs/2401.13654): The limitations (and potential) of non-parametric morphology statistics for post-merger identification ###
 
