@@ -1,6 +1,12 @@
 <a name="readme-top"></a>
-
-<img src="merger-train-logo.png" alt="Logo" width="80" height="30">
+<!-- PROJECT LOGO -->
+<br />
+<div align="left">
+  <a href="https://github.com/sj-wilkinson/merger_train">
+    <img src="merger-train-logo.png" alt="Logo" width="800" height="400">
+  </a>
+  </p>
+</div>
 
 ### Example code for interfacing with [the data](https://www.canfar.net/storage/vault/list/AstroDataCitationDOI/CISTI.CANFAR/23.0031/data) from [Wilkinson et al. (2024)](https://arxiv.org/abs/2401.13654): The limitations (and potential) of non-parametric morphology statistics for post-merger identification ###
 
