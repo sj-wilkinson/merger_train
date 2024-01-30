@@ -52,7 +52,7 @@ This repository contains four directories that constitutes the products, trainin
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Data can be downloaded directly from the web repository. A more sophisticated approach is to use the vos file management system. Documentation on vos can be found here: https://pypi.org/project/vos/
+Data can be downloaded directly from [the web repository](https://www.canfar.net/storage/vault/list/AstroDataCitationDOI/CISTI.CANFAR/23.0031/data/). A more sophisticated approach is to use the vos file management system. Documentation on vos can be found here: https://pypi.org/project/vos/
 
 An example of a vos download to your local system would be:
 
