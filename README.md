@@ -27,7 +27,7 @@ Images and example code from [Wilkinson et al. (2024)](https://arxiv.org/abs/240
 <!-- DESCRIPTION OF DATA -->
 ## Description of Data Products
 
-TThis repository contains four directories that constitutes the products, training data, and trained models used in our work:
+This repository contains four directories that constitutes the products, training data, and trained models used in our work:
 
 1. Photometry
 
